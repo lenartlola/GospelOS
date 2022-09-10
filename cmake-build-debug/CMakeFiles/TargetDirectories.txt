@@ -1,0 +1,3 @@
+/home/unixity/Documents/ElOS/cmake-build-debug/CMakeFiles/ElOS.dir
+/home/unixity/Documents/ElOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/unixity/Documents/ElOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
